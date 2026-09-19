@@ -63,7 +63,7 @@ The table below lists top commercial SaaS platforms sorted in **descending order
 
 > 🌟 **Open-Source Ecosystem:** Open-source tools form the backbone of modern ML experimentation, offering data privacy, full self-hosting capabilities, and zero vendor lock-in.
 
-The open-source projects below are sorted in **descending order of GitHub Stars_Count**.
+The open-source projects below are sorted in **descending order of GitHub_Stars_Count**.
 
 | 📦 Repository & Project | ⭐ GitHub_Stars | 📝 Description & Primary Focus |
 | :--- | :---: | :--- |
@@ -105,7 +105,7 @@ Contributions are warmly welcome! Please follow these simple steps:
 
 1. Fork this repository.
 2. Edit `README.md` following the existing markdown table formats.
-3. Ensure new entries include factual descriptions, GitHub Stars_Badges, or pricing details.
+3. Ensure new entries include factual descriptions, GitHub_Stars_Badges, or pricing details.
 4. Open a Pull Request with a short summary of changes.
 
 ---
